@@ -1,6 +1,8 @@
-<html>{
+html {
   font-family: Georgia,serif;
-}
   background-color:#f2f1ed;
+}
 
-</html>
+img {
+  width: 100%;
+}
