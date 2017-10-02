@@ -6,6 +6,18 @@ html {
 img {
   width: 100%;
 }
+
 h2 {
   color: #5d8432; text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+}
+
+h3 {
+  color: #5d8432; text-transform: uppercase;
+  font-family: 'Patua One', cursive;
+}
+
+h4 {
+  color: #5d8432; text-transform: uppercase;
+  font-family: 'Patua One', cursive;
 }
