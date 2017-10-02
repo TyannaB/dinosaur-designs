@@ -1,23 +1,19 @@
 html {
   font-family: Georgia, serif;
   background-color: #f2f1ed;
+  font-size: 1rem/1.5
 }
 
 img {
   width: 100%;
 }
-
 h2 {
-  color: #5d8432; text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+  font-family: Georgia, serif;
+  color: #5d8432;
 }
-
-h3 {
-  color: #5d8432; text-transform: uppercase;
-  font-family: 'Patua One', cursive;
-}
-
-h4 {
-  color: #5d8432; text-transform: uppercase;
-  font-family: 'Patua One', cursive;
+figcaption {
+  font-family: Georgia, serif;
+  font-style: italic;
+  text-align: center;
+  font-size: 0.5rem;
 }
