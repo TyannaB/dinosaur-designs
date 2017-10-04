@@ -12,11 +12,21 @@ h2 {
   font-family: Georgia, serif;
   color: #5d8432;
   font-size: 5rem;
-
 }
+
 figcaption {
   font-family: Georgia, serif;
   font-style: italic;
   text-align: center;
   font-size: 1rem;
+}
+
+li {
+  color: #793284;
+  font-style: oblique;
+  font-size: 1.125rem;
+
+}
+li a:hover {
+  color: #b42885;
 }
