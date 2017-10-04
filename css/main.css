@@ -7,10 +7,12 @@ html {
 img {
   width: 100%;
 }
+
 h2 {
   font-family: Georgia, serif;
   color: #5d8432;
-  font-size: 5rem
+  font-size: 5rem;
+
 }
 figcaption {
   font-family: Georgia, serif;
