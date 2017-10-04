@@ -1,7 +1,7 @@
 html {
   font-family: Georgia, serif;
   background-color: #f2f1ed;
-  font-size: 1rem/1.5
+  font-size: 1rem;
 }
 
 img {
@@ -10,10 +10,11 @@ img {
 h2 {
   font-family: Georgia, serif;
   color: #5d8432;
+  font-size: 5rem
 }
 figcaption {
   font-family: Georgia, serif;
   font-style: italic;
   text-align: center;
-  font-size: 0.5rem;
+  font-size: 1rem;
 }
