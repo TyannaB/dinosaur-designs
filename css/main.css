@@ -22,13 +22,12 @@ figcaption {
   font-size: .5rem;
 }
 
-li {
+a,
+a:link {
   color: #793284;
-  font-style: oblique;
-  font-size: 1.125rem;
   font-family: "Patua One", serif;
 }
 
-li a:hover {
+a:hover {
   color: #b42885;
 }
