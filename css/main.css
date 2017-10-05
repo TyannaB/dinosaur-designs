@@ -2,7 +2,7 @@ html {
   font-family: Georgia, serif;
   background-color: #f2f1ed;
   font-size: 1rem;
-  line-height: 1.5rem;
+  line-height: 1.5;
 }
 
 img {
@@ -12,14 +12,13 @@ img {
 h2 {
   font-family: "Patua One", serif;
   color: #5d8432;
-  font-size: 2rem;
 }
 
 figcaption {
   font-family: Georgia, serif;
   font-style: italic;
   text-align: center;
-  font-size: .5rem;
+  font-size: .8rem;
 }
 
 a,
@@ -37,4 +36,8 @@ ol {
   list-style-type: none;
   font-size: 1.125rem;
   font-weight: bold;
+}
+
+.bigfig {
+  font-size: 1rem;
 }
